@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ostropti.github.io/sitemap.html.gz
+Sitemap: https://ostropti.github.io/app/sitemap.html.gz
+Sitemap: https://ostropti.github.io/assets/sitemap.html.gz
+Sitemap: https://ostropti.github.io/css/sitemap.html.gz
+Sitemap: https://ostropti.github.io/includes/sitemap.html.gz
+Sitemap: https://ostropti.github.io/item/sitemap.html.gz
+Sitemap: https://ostropti.github.io/src/sitemap.html.gz
